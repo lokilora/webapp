@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy 15F",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "5000",
+      "description": "Smartphone",
+      "createdAt": "2023-03-07",
+      "id": 1
+    },
+    {
+      "name": "Nokia X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "25000",
+      "description": "Smartphone",
+      "createdAt": "2023-08-22",
+      "id": 2
+    },
+    {
+      "name": "iphone 15",
+      "brand": "Apple",
+      "category": "Phones",
+      "price": "4450",
+      "description": "iphone",
+      "createdAt": "2023-06-30",
+      "id": 3
+    },
+    {
+      "name": "thinkpad",
+      "brand": "Lenovo",
+      "category": "Computers",
+      "price": "10000",
+      "description": "Laptop",
+      "createdAt": "2023-06-30",
+      "id": 4
+    },
+    {
+      "name": "boatrockerz",
+      "brand": "Boat",
+      "category": "Other",
+      "price": "200",
+      "description": "",
+      "createdAt": "2023-06-30",
+      "id": 5
+    },
+    {
+      "name": "DSLR700D",
+      "brand": "Canon",
+      "category": "Cameras",
+      "price": "12000",
+      "description": "Digital Camera",
+      "createdAt": "2023-06-30",
+      "id": 6
+    }
+  ]
+}
